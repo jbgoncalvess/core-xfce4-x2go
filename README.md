@@ -25,7 +25,7 @@ Fornecer aos alunos do IFC – Campus Sombrio uma máquina virtual leve e eficie
 ### 1. Baixe a máquina virtual `.ova`
 
 > Link para download da máquina virtual:  
->[Disponível via Google Drive (4.3 GB)](https://seulinkaqui.com](https://drive.google.com/file/d/1-s3UP2AT2UPQnrGOwnAoFs8UUB9V5TCn/view?usp=drive_link)
+>[Disponível via Google Drive (4.3 GB)](https://drive.google.com/file/d/1-s3UP2AT2UPQnrGOwnAoFs8UUB9V5TCn/view?usp=drive_link)
 
 ---
 
