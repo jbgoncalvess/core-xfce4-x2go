@@ -26,6 +26,8 @@ Fornecer aos alunos do IFC – Campus Sombrio uma máquina virtual leve e eficie
 
 > Link para download da máquina virtual:  
 >[Disponível via Google Drive (4.3 GB)](https://drive.google.com/file/d/1-s3UP2AT2UPQnrGOwnAoFs8UUB9V5TCn/view?usp=drive_link)
+> Link para download da máquina virtual (Máquina para instalação do Zabbix - Gerência de Redes):
+>[Disponível via Google Drive (6.5 GB)](https://)
 
 ---
 
